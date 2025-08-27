@@ -1,5 +1,4 @@
-# Bluetooth LE scanner
-# Prints the name and address of every nearby Bluetooth LE device
+# Prints the name and address of Bluetooth LE devices
 
 import asyncio
 from bleak import BleakScanner
